@@ -1,0 +1,15 @@
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\bin\Debug\net6.0\Antra.Training.Data.Repository.deps.json
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\bin\Debug\net6.0\Antra.Training.Data.Repository.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\bin\Debug\net6.0\Antra.Training.Data.Repository.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\bin\Debug\net6.0\Antra.Training.Data.Entity.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\bin\Debug\net6.0\Antra.Training.Data.Entity.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.csproj.AssemblyReference.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.AssemblyInfoInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.AssemblyInfo.cs
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.csproj.CopyComplete
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\refint\Antra.Training.Data.Repository.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\Antra.Training.Data.Repository.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Repository\obj\Debug\net6.0\ref\Antra.Training.Data.Repository.dll

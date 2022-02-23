@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Antra.Training.Data.Entity/1.0.0": {
+        "runtime": {
+          "Antra.Training.Data.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antra.Training.Data.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\bin\Debug\net6.0\Antra.Training.Data.Entity.deps.json
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\bin\Debug\net6.0\Antra.Training.Data.Entity.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\bin\Debug\net6.0\Antra.Training.Data.Entity.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.AssemblyInfo.cs
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\refint\Antra.Training.Data.Entity.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\Antra.Training.Data.Entity.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Entity\obj\Debug\net6.0\ref\Antra.Training.Data.Entity.dll

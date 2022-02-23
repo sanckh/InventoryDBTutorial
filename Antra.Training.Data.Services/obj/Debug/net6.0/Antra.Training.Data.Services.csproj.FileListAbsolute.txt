@@ -1,0 +1,17 @@
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Services.deps.json
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Services.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Services.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Entity.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Repository.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Repository.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\bin\Debug\net6.0\Antra.Training.Data.Entity.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.csproj.AssemblyReference.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.AssemblyInfoInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.AssemblyInfo.cs
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.csproj.CoreCompileInputs.cache
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.csproj.CopyComplete
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\refint\Antra.Training.Data.Services.dll
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\Antra.Training.Data.Services.pdb
+C:\Users\Daddy\source\repos\MovieTutorial\Antra.Training.Data.Services\obj\Debug\net6.0\ref\Antra.Training.Data.Services.dll
